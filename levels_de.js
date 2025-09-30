@@ -234,7 +234,7 @@ levels['de'] = [
   {
     selectorName: "Einzelkind-Pseudo-Selektor",
     helpTitle: "Wählt ein Element, dass das einzige in einem anderen ist.",
-    doThis : "Wähler den Apfel und die Gurke auf den Tellern",
+    doThis : "Wähle den Apfel und die Gurke auf den Tellern",
     selector : "plate :only-child",
     syntax: ":only-child",
     help : "Du kannst alle Elemente auswählen, die das einzige in einem anderen Element sind.",
